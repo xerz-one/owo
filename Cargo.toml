@@ -3,5 +3,7 @@ name = "owo"
 version = "0.1.0"
 authors = ["Francisco Gómez García <espectalll@kydara.com>"]
 edition = "2018"
+readme = "README.md"
+license = "CC0-1.0"
 
 [dependencies]
